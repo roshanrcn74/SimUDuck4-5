@@ -53,20 +53,5 @@ public class MiniDuckSimulator {
         modelDuck.performQuack();
         modelDuck.swim();
 
-        
-//        mallard.setQuackBehavior(new Squeak(duckVoice));
-//        mallard.performQuack();
-//        mallard.performQuack();
-//
-//        System.out.println("================Model Duck=========================");
-//
-//        Duck model = new ModelDuck(new FlyNoWay(displayMode), new MuteQuack(duckVoice), displayMode);
-//        model.doDisplay();
-//        model.performFly();
-//        model.performQuack();
-//
-//        model.setFlyBehavior(new FlyRocketPowered(displayMode));
-//        model.performFly();
-//        model.performQuack();
     }
 }
